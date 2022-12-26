@@ -26,9 +26,9 @@
     "ejs": "^3.1.6",
     "express": "^4.17.1",
     "install": "^0.13.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongodb": "^4.1.0",
-    "npm": "^7.20.6"
+    "npm": "^9.2.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
